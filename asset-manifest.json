@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-router-project/static/css/main.9ae30ce8.css",
-    "main.js": "/react-router-project/static/js/main.917464d4.js",
+    "main.css": "/react-router-project/static/css/main.173cdaeb.css",
+    "main.js": "/react-router-project/static/js/main.5edcff69.js",
     "static/media/backsnow.jpg": "/react-router-project/static/media/backsnow.d60fa1d38151558b35e2.jpg",
     "index.html": "/react-router-project/index.html",
-    "main.9ae30ce8.css.map": "/react-router-project/static/css/main.9ae30ce8.css.map",
-    "main.917464d4.js.map": "/react-router-project/static/js/main.917464d4.js.map"
+    "main.173cdaeb.css.map": "/react-router-project/static/css/main.173cdaeb.css.map",
+    "main.5edcff69.js.map": "/react-router-project/static/js/main.5edcff69.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ae30ce8.css",
-    "static/js/main.917464d4.js"
+    "static/css/main.173cdaeb.css",
+    "static/js/main.5edcff69.js"
   ]
 }
