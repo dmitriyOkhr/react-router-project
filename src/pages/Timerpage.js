@@ -6,7 +6,7 @@ const Timerpage = () => {
   const [hours, setHours] = useState(0);
   const [days, setDays] = useState(0);
 
-  const deadline = "December, 31, 2022";
+  const deadline = "December, 31, 2023";
 
   const getTime = () => {
     const time = Date.parse(deadline) - Date.now();

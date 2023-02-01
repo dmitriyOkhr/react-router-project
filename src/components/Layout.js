@@ -16,9 +16,11 @@ const Layout = () => {
       <main className="container">
         <Outlet />
       </main>
-      <footer className="footer">2022</footer>
+      <footer className="footer">2023</footer>
     </div>
   );
 };
 
 export default Layout;
+
+//background-image: url("backsnow.jpg");

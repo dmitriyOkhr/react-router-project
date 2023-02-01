@@ -4,7 +4,7 @@ const Snowpage = () => {
   return (
     <div>
       <Snowfall color="purple"></Snowfall>
-      <h1>Ой Юрасік, який же ти красавчик!</h1>
+      <h1>Snowfall</h1>
     </div>
   );
 };

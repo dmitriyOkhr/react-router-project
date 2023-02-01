@@ -10,7 +10,7 @@ const Weatherinfo = () => {
   useEffect(() => {
     axios
       .get(
-        `http://api.openweathermap.org/data/2.5/weather?q=${API_CITY},${API_COUNTRY_CODE}uk&APPID=${API_KEY}&units=metric`
+        `https://api.openweathermap.org/data/2.5/weather?q=${API_CITY},${API_COUNTRY_CODE}uk&APPID=${API_KEY}&units=metric`
       )
       .then((res) => setInfo(res.data.main.temp));
     //.then((res) => console.log(res.data.main.temp));
